@@ -6,16 +6,16 @@
 <a href="https://www.linkedin.com/in/devmohamedamr">
   <img align="left" alt="mohamed amr LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://www.facebook.com/devmohamedamr">
-  <img align="left" alt="mohamed amr Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+<a href="https://www.facebook.com/devmohamedali">
+  <img align="left" alt="MohaMed ALi Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 <br />
 <br />
 
-Hi, I'm Mohamed Amr, Backend Developer 🚀 from Egypt
+Hi, I'm Mohamed Ali, Backend Developer 🚀 from Egypt
 
 
-- 📫 You can reach me on : dev.mohamedamr@gmail.com
+- 📫 You can reach me on : muhamedali.dev@gmail.com
 
 ### 💎 Fav Quotes: 
 - "Think twice, code once". 
