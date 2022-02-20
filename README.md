@@ -1,12 +1,12 @@
 ### Hi there 👋🏻 I'm Mohamed Ali
 
-<a href="https://twitter.com/devmohamedamr">
-  <img align="left" alt="mohmed amr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+<a href="https://twitter.com/muhamed3li">
+  <img align="left" alt="mohmed ali | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/devmohamedamr">
-  <img align="left" alt="mohamed amr LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<a href="https://www.linkedin.com/in/mohamed-ali-084498197">
+  <img align="left" alt="mohamed ali LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://www.facebook.com/devmohamedali">
+<a href="https://www.facebook.com/mohamedali.dev">
   <img align="left" alt="MohaMed ALi Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 <br />
