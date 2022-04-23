@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Mohamed!;I'm+a+Backend+Developer...;I'm+also+Graphic+Designer;And+I'm+a+Freelancer🇰)](https://git.io/typing-svg)
 
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" width="500px" alt="adam-pw" /></p>
+<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" width="450px" alt="adam-pw" /></p>
 <br>
 
 - 📫 How to reach me **muhamedali.dev@gmail.com**
