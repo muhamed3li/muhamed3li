@@ -1,8 +1,9 @@
-<br>
+<h1 align="center"> Hey there, I'm Mohamed Ali 👋 </h1>
 
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
-### Hey there, I'm [Mohamed Ali] <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" width="200px" alt="adam-pw" /></p>
+
+### Hey there, I'm [Mohamed Ali] <img  src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Mohamed!;I'm+a+Backend+Developer...;I'm+also+Graphic+Designer;And+I'm+a+Freelancer🇰)](https://git.io/typing-svg)
 
