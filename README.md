@@ -2,7 +2,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhamed3li&label=Profile%20views&color=0e75b6&style=flat" alt="muhamed3li" /> </p>
 <h1 align="center"> Hey there, I'm Mohamed Ali <img  src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px"> </h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Mohamed!;I'm+a+Backend+Developer...;I'm+also+Graphic+Designer;And+I'm+a+Freelancer🇰)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Mohamed!;I'm+a+Backend+Developer...)](https://git.io/typing-svg)
 
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" width="400px" alt="adam-pw" /></p>
 <br>
